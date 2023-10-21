@@ -1,35 +1,19 @@
-<h1>MO-Taverse</h1> 
+<h1>Remote PID Control for a Distance-Sensitive Robot</h1> 
 
-### Social VR Experience: Connect with Just Your Webcam, No HMD Needed!
-
-Check the web application: https://mo-kasiri.github.io/MO-Taverse
-
-Checkout the source code: https://github.com/mo-kasiri/GestureLink_Metaverse
+### Winter 2018
 
 ---
-### Welcome to Motaverse!
-<p>This app is part of my master's thesis “Analysis of Body Gesture as a Nonverbal Communication in Metaverse.”
-We aim to enhance the nonverbal communication experience within a virtual three-dimensional (Social VR) setting.
-The application captures the user's hand movements using an RGB webcam and replicates them onto a 3D avatar. This technology will allow users to express
-themselves more effectively through physical gestures and movements, thus creating a more immersive and engaging virtual
-environment. It connects people online and lets them express hand gestures in social virtual reality without a head-mounted display.</p>
+### Abstract
+<p>The objective of this project is to develop a distance-sensitive robot capable of maintaining a safe distance from objects in front of it while responding to input commands for movement and positioning via a mobile device. The robot's control is achieved through a PID controller, which
+receives control variables and distance information from a smartphone application. Using an Arduino microcontroller, the robot is powered by a battery. An LCD display, with 16 characters, is integrated into the robot to provide visual feedback of the sensor output, completing the control loop. This robot holds crucial applications in distance maintenance technology, such as maintaining safe distances between vehicles and even in autonomous and intelligent strollers to ensure a safe separation from the carrier.</p>
 
-* Communicate anonymously
-* Join social VR without any HMD (Head-mounted Display)
-* Enhance your communication in social VR by showing hand gestures
-* Connect to your friends in a private environment
+# Image Demo
+<img alt="demo1.jpg" src="https://github.com/mo-kasiri/Bachelor_Final_Project/blob/main/demo1.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
+<br>
+
+<img alt="demo2.jpg" src="https://github.com/mo-kasiri/Bachelor_Final_Project/blob/main/demo2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
 
 # Watch the Demo
-<img alt="Demo.gif" src="https://github.com/mo-kasiri/MO-Taverse/blob/main/demo.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
-
-## How it works
-
-1. Using a **random ID**, Login anonymously to the App *(for example: `1234`)*
-2. Enter a random channel name *(for example: `demoChannel`)*
-3. Share your **channel name** with your peer and ask them to log in the same channel as you
-4. Ask your peer for **their ID**, and call them
-5. Communicate it and Enjoy!
-
----
-## 🚀 About Me
-My name is Mohammad Kasiri, and I'm a Multimedia/Computer Graphics and Vision Researcher.
+<img alt="demo1.gif" src="https://github.com/mo-kasiri/Bachelor_Final_Project/blob/main/demo1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
