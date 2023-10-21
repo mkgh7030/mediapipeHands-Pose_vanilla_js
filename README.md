@@ -17,5 +17,5 @@ receives control variables and distance information from a smartphone applicatio
 <img alt="demo2.jpg" src="https://github.com/mo-kasiri/Bachelor_Final_Project/blob/main/demo2.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 
-# Watch the Demo
+# Gif Demo
 <img alt="demo1.gif" src="https://github.com/mo-kasiri/Bachelor_Final_Project/blob/main/demo1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
