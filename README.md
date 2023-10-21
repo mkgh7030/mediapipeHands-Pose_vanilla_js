@@ -1,6 +1,8 @@
 <h1>Remote PID Control for a Distance-Sensitive Robot</h1> 
 
-### Winter 2018
+### Winter 2019
+
+<p>In the following, a translation of the report of my bachelor's thesis (“Final Project 1” in Electrical Engineering – Control) is provided. The original report was written in Persian and was successfully evaluated, resulting in a high grade of 19.5 out of 20 in 2019</p>
 
 ---
 ### Abstract
